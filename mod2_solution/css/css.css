@@ -6,19 +6,21 @@
 
 
 h1 {
+  margin-top:10px;
   margin-bottom: 60px;
   text-align: center;
   font-family: Comic Sans MS;
 }
 
-#p4,#p5,#p6{
+#p7,#p8,#p9{
   background: grey;
   height: 150px;
   font-family: Comic Sans MS;
   color: black;
-  padding:0px 0px 5px 5px;
+  padding:0px 20px 20px 20px;
   overflow: hidden;
   border:1px solid black;
+  
 }
 
 
@@ -34,7 +36,8 @@ h1 {
    
   }
   
-  #p7 #p1{
+  #p4 #p1{
+  margin-bottom: 20px
   color: black;
   background:#F08080;
   text-align:center;
@@ -46,7 +49,8 @@ h1 {
   border:1px solid black;
 }
 
-  #p8 #p2{
+  #p5 #p2{
+  margin-bottom: 20px;
   color:white;
   background:#FF6347;
   text-align:center;
@@ -58,7 +62,8 @@ h1 {
   border:1px solid black;
 }
 
-  #p9 #p3{
+  #p6 #p3{
+  margin-bottom:20px;
   color:black;
   background:#F0E68C;
   text-align:center;
@@ -107,6 +112,7 @@ h1 {
 
 
 #p4 #p1{
+  margin-bottom: 20px;
   color: black;
   background:#F08080;
   text-align:center;
@@ -114,11 +120,12 @@ h1 {
   height: 20%;
   position:relative;
   top:0%;
-  left:70%;
+  left:76%;
   border:1px solid black;
 }
 
   #p5 #p2{
+  margin-bottom: 20px;
   color:white;
   background:#FF6347;
   text-align:center;
@@ -126,11 +133,12 @@ h1 {
   height:20%;
   position:relative;
   top:0%;
-  left:70%;
+  left:76%;
   border:1px solid black;
 }
 
   #p6 #p3{
+  margin-bottom: 20px;
   color:black;
   background:#F0E68C;
   text-align:center;
@@ -138,6 +146,7 @@ h1 {
   height: 20%;
   position:relative;
   top:0%;
-  left:70%;
+  left:76%;
   border:1px solid black;
   }
+  
